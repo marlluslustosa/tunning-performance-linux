@@ -2,8 +2,8 @@
 # Tunning de Performance em Linux para Ambientes de Containers
 
 Este repositório reúne todos os scripts utilizados no tutorial de otimização de performance para nós Linux rodando cargas conteinerizadas.  
-Ele acompanha o passo a passo apresentado no artigo (a ser publicado em):  
-**https://marllus.com/xxxx**
+Ele acompanha o passo a passo apresentado no artigo:  
+**https://marllus.com/tecnologia/2025/11/11/aumentando-performance-em-servidor-gnu-linux-para-ambiente-de-containers-k8s-swarm-nomad**
 
 O objetivo do material não é apenas aplicar ajustes de performance, mas também **demonstrar como analisar métricas de sistema de forma correta**, especialmente em cenários de alta carga, onde **a média nem sempre representa bem o comportamento real**.  
 No artigo, discutimos como **distribuições multimodais** podem tornar a média enganosa e por que, em determinados casos, a **mediana e os percentis** são indicadores melhores para entender a tendência dos dados — embora, neste caso específico, a média ainda tenha se mostrado representativa.
@@ -73,7 +73,7 @@ Livre para uso e adaptação com crédito ao autor.
 
 ## 🌐 Artigo Explicando Todo o Processo
 
-> Em breve: **[https://marllus.com/xxxx](https://marllus.com/xxxx)**
+> **[https://marllus.com/tecnologia/2025/11/11/aumentando-performance-em-servidor-gnu-linux-para-ambiente-de-containers-k8s-swarm-nomad](https://marllus.com/tecnologia/2025/11/11/aumentando-performance-em-servidor-gnu-linux-para-ambiente-de-containers-k8s-swarm-nomad)**
 
 ---
 
