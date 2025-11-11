@@ -18,7 +18,7 @@ No artigo, discutimos como **distribuições multimodais** podem tornar a média
 | `stress_test.sh`              | Script para gerar carga controlada e reproduzível no sistema.                             |
 | `sar_visualize.py`            | Gera gráficos de séries temporais a partir dos relatórios do `sar`.                       |
 | `sar_visualize_boxsplot.py`   | Cria **boxplots** para análise de distribuição e identificação de multimodalidade.        |
-| `CV_metric_final.py`          | Calcula **média, mediana, p95, p99 e Coeficiente de Variação** para cada métrica coletada.|
+| `CV_metric_final.py`          | Calcula **média, mediana e Coeficiente de Variação** para cada métrica coletada.|
 | `cloud-config`                | Arquivo de provisionamento automático para replicar o ambiente de testes.                |
 | `README.md`                   | Você está aqui.                                                                           |
 
@@ -30,7 +30,7 @@ No artigo, discutimos como **distribuições multimodais** podem tornar a média
 - Como coletar métricas reais com `sar` (sysstat)
 - Quando confiar (ou **não**) na **média**
 - Como identificar **picos** e **distribuições multimodais** através de boxplots
-- Como interpretar **mediana, p95 e p99** para análise de performance
+- Como interpretar **mediana e os intervalos interquartílicos** para análise de performance
 - Como aplicar otimizações seguras e efetivas no kernel para workloads conteinerizados
 
 ---
